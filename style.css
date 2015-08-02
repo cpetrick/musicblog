@@ -1,0 +1,839 @@
+
+body {
+    background-image: url("1.png");
+    /*background-repeat: no-repeat;*/
+    background-size: 100%;
+    font-family: 'Cutive Mono';
+    position: relative;
+    display: block;
+}
+.section0 {
+ font-family: 'Rock Salt';
+ font-size: 55px;
+ text-align: center;
+ width: 100%;
+ /*background-color: #0D193D;*/
+ background-image: url("record_background.png");
+ background-size: 100%;
+ color: #FFFFFF;
+ border-radius: 12px;
+ margin-bottom: 4px;
+}
+#h1 {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+/*===== START NAV MENU=======*/
+.section1 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.nav {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1px;
+  margin-top: 1px;
+}
+    nav ul {
+        list-style: none;
+        display: inline-block;
+        margin-bottom: 1px;
+        margin-top: 1px;
+        font-kerning: auto;
+    }
+        nav ul li {
+          display: inline;
+          float: left;
+       }
+              nav ul li a {
+                text-decoration: none;
+                display: block;
+                width: 80px;
+                height: 80px;
+                margin-bottom: 1px;
+                /*padding-top: 15px;*/
+              }
+                img {
+                  border-radius: 12px;
+                  border-style: solid;
+                  border-color: red;
+                  border-width: 2px;
+                }
+
+a:link, a:visited {
+  display: block;
+  width: 150px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+a:hover, a:active {
+  background-color: #999999;
+}
+
+/*===== END NAV MENU=======*/
+
+.section2 {
+  font-size: 25px;
+  align-content: stretch;
+  width: 100%;
+  margin: auto;
+  margin-top: 1px;
+  text-align: center;
+  font-family: 'Special Elite', sans-serif;
+  background-color: #0D193D;
+  color: #FFFFFF;
+  border-radius: 12px;
+}
+.title {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+/*
+My Fifteen Favorite SOngs of All-Time (Not in any specific order)*/
+
+/*START JOY DIVISION SHE's LOST CONTROL============================*/
+.jdControl {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  opacity: 2.0;
+}
+
+#jdTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+
+#jdCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;
+}
+/*END JOY DIVISION SHE's LOST CONTROL=============================*/
+
+/*START NICK DRAKE HORN============================================*/
+.nickDrakeHorn {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#ndTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#ndCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END NICK DRAKE HORN==============================================*/
+
+/*START MARVIN GAYE LETS GET IT ON ============================================*/
+.marvinGaye {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#mgTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#mgCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END MARVIN GAYE LETS GET IT ON==============================================*/
+
+/*START NEW ORDER BLUE MONDAY ============================================*/
+.newOrder {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#noTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#noCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END NEW ORDER BLUE MONDAY ==============================================*/
+
+/*START KOOL AND THE GANG JUNGLE BOOGIE ============================================*/
+.koolAndTheGang {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#kgTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#kgCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END KOOL AND THE GANG JUNGLE BOOGIE ==============================================*/
+
+/*START THE BEACH BOYS SLOOP JOHN B ============================================*/
+.sloopJohnB {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#sJbTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#sJbCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END THE BEACH BOYS SLOOP JOHN B ==============================================*/
+
+/*START THE SMITHS HOW SOON IS NOW ============================================*/
+.howSoon {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#hSTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#hSCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END THE SMITHS HOW SOON IS NOW ==============================================*/
+
+/*START GLADYS KNIGHT MIDNIGHT TRAIN TO GEORGIA ============================================*/
+.midnightTrain {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#mTTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#mTCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END THE GLADYS KNIGHT MIDNIGHT TRAIN TO GEORGIA ==============================================*/
+
+/*START LED ZEPP STAIRWAY TO HEAVEN ============================================*/
+.stairway {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#lZTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#lZCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*END LED ZEPP STAIRWAY TO HEAVEN ==============================================*/
+
+
+/*START THE BEACH BOYS THE WARMTH OF THE SUN ============================*/
+.warmth {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  opacity: 2.0;
+}
+
+#warmthTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+
+#warmthCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.inline-list {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;
+}
+/*END THE BEACH BOYS THE WARMTH OF THE SUN =============================*/
+
+/*==================START THE EAGLES LYIN EYES ============================================*/
+.theEagles {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#tETrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#tECommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*===================END THE EAGLES LYIN EYES ==============================================*/
+
+/*================START THE BEATLES DEAR PRUDENCE ============================================*/
+.theBeatles {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#tBTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#tBCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*===================END THE BEATLES DEAR PRUDENCE  =========================================*/
+
+
+/*================START DIANA ROSS ============================================*/
+.dianaRoss {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#dRTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#dRCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*===================END DIANA ROSS =========================================*/
+
+
+/*================START BEACH BOYS I JUST WASNT MADE FOR THESE TIMES ==========================*/
+.beachBoys {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#bBTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#bBCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*===================END BEACH BOYS I JUST WASNT MADE FOR THESE TIMES ========================*/
+
+/*================   START JOY DIVISION TRANSMISSION  ==========================*/
+.transmission {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#transmissionTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#transmissionCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*===================  END JOY DIVISION TRANSMISSION  ========================*/
+
+
+/*================ START THE SMITHS THE DRAIZE TRAIN  ==========================*/
+.draizeTrain {
+  border-top: 2px solid grey;
+  border-bottom: 5px solid grey;
+  overflow: hidden;
+  height: auto;
+  margin: auto;
+  width: 65%;
+  background-color: #808080;
+  background-image: url("record_background.png");
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+iframe {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#draizeTrackInfo1 {
+  border: 0 0 0 0;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'Special Elite', sans-serif;
+  color: #FFFFFF;
+}
+p {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+#draizeCommentary1 {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.li {
+  font-family: 'Special Elite', sans-serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  list-style: none;
+  padding-left: 2px;}
+
+/*===================  END THE SMITHS THE DRAIZE TRAIN  ========================*/
+
+
+/*FOOTER*/
+.footer {
+  float: bottom;
+}
